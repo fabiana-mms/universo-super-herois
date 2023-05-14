@@ -75,69 +75,9 @@ body {
     padding: 10px 20px;
 }
 
-/*CSS da pagina Marvel*/
+/*CSS das paginas Marvel e DC*/
 
-.bodymarvel {background-color: #2B2B2B;}
-
-.pagina { 
-    color: beige;
-    background-color: rebeccapurple;
-    display: inline-block;
-    padding: 20px;
-    border: 2px black;
-    margin-left: 30px;
-    margin-right: 30px;
-}
-    
-
-.imgcenter {
-display: flex;
-margin: auto;
-
-}
-.p {
-   color: beige;
-    background-color:rebeccapurple ;
-    padding: 20px;
-    border: 2px black;
-    margin-left: 30px;
-    margin-right: 30px;
-}
-
-/*CSS da pagina DC*/
-
-.body-dc {background-color: #2b2b2b;}
-
-.texto {
-color: beige;
-text-decoration: dashed;
-
-
-}
-.imgBatman {
-    width: 190px;
-    height: 300px;
-    padding-left: 1000px;
-    padding-top: 10px;
-}
-.imgWW {
-    width: 190px;
-    height: 300px;
-    padding-left: 60px;
-    padding-top: 810;
-
-}
-.imgSuperman {
-    width: 190px;
-    height: 300px;
-    padding-left: 1000px;
-    padding-top: 10px;
-}
-
-.imgflash {
-    
- width: 190px;
-height: 300px;
-padding-left: 60px;
-padding-top: 10px;
+.item-list {
+    background: #2b2b2b;
+    border: none;
 }
